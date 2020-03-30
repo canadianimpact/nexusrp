@@ -1,2 +1,0 @@
-# nexusrp
-nexus-development
